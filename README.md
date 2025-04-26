@@ -102,7 +102,7 @@ end
 endmodule
 ```
 ## OUTPUT
-![vl](https://github.com/user-attachments/assets/a6dfe865-ea66-4a44-9dbd-0983e0420e83)
+![3v](https://github.com/user-attachments/assets/6d842b36-5e19-4460-a94a-8f400df81796)
 
 
 ## Conclusion:
